@@ -1,0 +1,30 @@
+.App {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  height: 100%;
+}
+
+.hero-section {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px;
+}
+
+.hero-content {
+  max-width: 50%;
+}
+
+.hero-image img {
+  max-width: 90%;
+  height: auto;
+}
+/* src/index.css or src/App.css */
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
