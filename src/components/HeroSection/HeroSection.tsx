@@ -1,8 +1,7 @@
 import React from "react";
 import "./HeroSection.css";
 import SearchBar from "../SearchBar/SearchBar";
-import heroImage from "../../assets/images/hero-image.png"; // Make sure to replace with the actual path
-
+import heroImage from "../../assets/images/hero-image.png";
 const HeroSection: React.FC = () => {
   return (
     <div className="hero-section">

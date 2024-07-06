@@ -1,6 +1,6 @@
 import React from "react";
 import "./Navbar.css";
-import navImage from "../../assets/images/image.png"; // Make sure to replace with the actual path
+import navImage from "../../assets/images/image.png"; 
 
 const Navbar: React.FC = () => {
   return (
